@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Melda SAVRAN</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<!--<h3 align="center">A passionate backend developer from Türkiye</h3>-->
 
 
 
 
 
-- 🌱 I’m currently learning **.Net Core**
+<!--- 🌱 I’m currently learning **.Net Core**-->
 
 - 📫 How to reach me **meldasavrann@gmail.com**
 
