@@ -39,8 +39,8 @@ Donanım, yazılım destek, sistem kurulumu ve problem çözme odaklı çalışa
 
 ##  Kontakt
 
--  E-Mail: meldasavrann@gmail.com  
--  LinkedIn: [meldasavran](in/meldasavran-)
+-  E-Mail: meldasavrann@gmail.com/ savranmelda96@gmail.com
+-  LinkedIn: ((https://www.linkedin.com/in/meldasavran-/))
 
 ---
 
