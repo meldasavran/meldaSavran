@@ -33,14 +33,14 @@ Donanım, yazılım destek, sistem kurulumu ve problem çözme odaklı çalışa
 - IT-Dokumentation & Troubleshooting  
 - SQL Basics & Datenbank-Management  
 - Git / GitHub  
-- Technisches Deutsch auf A2 Niveau  
+
 
 ---
 
 ##  Kontakt
 
 -  E-Mail: meldasavrann@gmail.com  
--  LinkedIn: [meldasavran](https://linkedin.com/in/meldasavran)
+-  LinkedIn: [meldasavran](in/meldasavran-)
 
 ---
 
