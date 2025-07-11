@@ -1,21 +1,60 @@
 
 
-<h1 align="center">Hi 👋, I'm Melda SAVRAN</h1>
-<!--<h3 align="center">A passionate backend developer from Türkiye</h3>-->
+<h1 align="center">👋 Merhaba, ich bin Melda Savran</h1>
 
+<h3 align="center">IT Support Anwärterin mit Fachinformatikerin-Anerkennung | Fachinformatikerin (Systemintegration)</h3>
 
+---
 
+## Über mich / Hakkımda  
 
+**DE:**  
+Ich bin eine IT Support Spezialistin mit Fokus auf Systemintegration, Hardware-/Software-Support, Fehleranalyse und IT-Dokumentation. Aktuell entwickle ich meine Fähigkeiten im Bereich IT-Support-Dokumentationen, Fallnotizen und Netzwerkadministration.  
 
-<!--- 🌱 I’m currently learning **.Net Core**-->
+**TR:**  
+Donanım, yazılım destek, sistem kurulumu ve problem çözme odaklı çalışan bir IT destek uzmanıyım. Şu an vaka kayıtları, teknik dokümantasyon ve ağ yönetimi üzerine yoğunlaşıyorum.
 
-- 📫 How to reach me **meldasavrann@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meldasavran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meldasavran" height="30" width="40" /></a>
-</p>
+## Aktuelle Projekte / Current Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+- IT Support Fallnotizen & Troubleshooting Dokumentation (Markdown)  
+- GitHub üzerinden reale IT-Support-Szenarien und Lösungsvorschläge  
+- Medium und LinkedIn technische Inhalte (IT Support & IT-Prozesse)
 
+---
+
+## Kenntnisse / Skills
+
+- IT-Support & Fehlersuche  
+- Hardware / Peripheriegeräte-Management  
+- Windows Betriebssysteme & Installation  
+- Netzwerktechnologien (TCP/IP, WLAN, LAN)  
+- IT-Dokumentation & Troubleshooting  
+- SQL Basics & Datenbank-Management  
+- Git / GitHub  
+- Technisches Deutsch auf A2 Niveau  
+
+---
+
+##  Kontakt
+
+-  E-Mail: meldasavrann@gmail.com  
+-  LinkedIn: [meldasavran](https://linkedin.com/in/meldasavran)
+
+---
+
+##  Repositories
+
+Schau dir meine IT Support Fallnotizen und Projekte an:  
+[🔗 IT Support Fallnotizen Repository](https://github.com/meldasavran/it-support-fallnotizen)
+
+---
+
+## Ziel
+
+**DE:**  
+Ich strebe danach, fundierte Kenntnisse im IT-Support aufzubauen und systematische, praxisnahe Dokumentationen zu erstellen, die IT-Teams und Auszubildenden als hilfreiche Referenz dienen können.
+
+**TR:**  
+Amacım; IT destek alanında sağlam bilgi ve deneyim kazanmak, süreçleri sistemli ve anlaşılır şekilde dokümante ederek IT ekipleri ve eğitim alanlar için faydalı bir kaynak oluşturmaktır.
